@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="43c786ac833c1610b220e530ceaad3ae" sys_domain="global" table="x_1459983_j_j_de_0_distributor_capability_assessment" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 06:36:12</sys_created_on>
+            <sys_id>c3c786ac833c1610b220e530ceaad3b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 06:36:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 06:36:45</sys_created_on>
+            <sys_id>47e706ac833c1610b220e530ceaad32b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 06:36:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>proposed_dis_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 06:37:08</sys_created_on>
+            <sys_id>f80842ec833c1610b220e530ceaad3ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 06:37:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source_of_dist</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 06:37:29</sys_created_on>
+            <sys_id>0a1846ec833c1610b220e530ceaad30f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 06:37:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>territory</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 06:59:35</sys_created_on>
+            <sys_id>792d8aec833c1610b220e530ceaad388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 06:59:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pharmacies_coverd</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:00:10</sys_created_on>
+            <sys_id>4e4dc66083bc1610b220e530ceaad3cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 07:00:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nursing_homes_covered</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:01:43</sys_created_on>
+            <sys_id>34ad8aa083bc1610b220e530ceaad3af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 07:01:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>govt_institutions_covered</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:03:16</sys_created_on>
+            <sys_id>affd0ee083bc1610b220e530ceaad347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 07:03:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>freqency</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:03:46</sys_created_on>
+            <sys_id>8b1e822483bc1610b220e530ceaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 07:03:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>how_many_mnc_covered</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:04:25</sys_created_on>
+            <sys_id>604eca2483bc1610b220e530ceaad37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 07:04:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>trained_ppl_infrastructure</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:05:10</sys_created_on>
+            <sys_id>576e826483bc1610b220e530ceaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 07:05:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>physical_infrastruture</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:05:56</sys_created_on>
+            <sys_id>b29e0e6483bc1610b220e530ceaad3e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 07:05:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:06:22</sys_created_on>
+            <sys_id>89be46a483bc1610b220e530ceaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 07:06:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-23 10:12:29</sys_created_on>
+            <sys_id>deafdbb5833cd650b220e530ceaad3b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_distributor_capability_assessment" sys_domain="global" view="Default view">43c786ac833c1610b220e530ceaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-23 10:12:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1459983_j_j_de_0_distributor_capability_assessment</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 06:36:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43c786ac833c1610b220e530ceaad3ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459983_j_j_de_0_distributor_capability_assessment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_ui_section_43c786ac833c1610b220e530ceaad3ae</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 06:36:12</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="31c7caac833c1610b220e530ceaad38c" label="Distributor Capability Assessment" max_length="40" name="x_1459983_j_j_de_0_distributor_capability_assessment" type="collection">
+        <element label="form ID" max_length="40" name="form_id" reference="x_1459983_j_j_de_0_quality_assessment" type="reference"/>
+        <element label="Number of Medical Shops/ Pharmacies covered" max_length="40" name="pharmacies_coverd" type="string"/>
+        <element label="Source of Distributor's Identification" max_length="40" name="source_of_dist" type="string"/>
+        <element label="Trained people infrastructure to manage the medicines" max_length="40" name="trained_ppl_infrastructure" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Number of Hospitals / Nursing Homes covered" max_length="40" name="nursing_homes_covered" type="string"/>
+        <element label="Frequency of visit to Chemists" max_length="40" name="freqency" type="string"/>
+        <element label="Total" max_length="40" name="total" type="string"/>
+        <element label="How many MNCs served" max_length="40" name="how_many_mnc_covered" type="string"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="Number of Govt Institutions covered" max_length="40" name="govt_institutions_covered" type="string"/>
+        <element label="territory" max_length="40" name="territory" type="string"/>
+        <element label="Proposed Distributor's Name" max_length="40" name="proposed_dis_name" type="string"/>
+        <element label="Physical infrastructure for Handling, Storage, and Distribution of medicines" max_length="40" name="physical_infrastruture" type="string"/>
+    </element>
+</database>

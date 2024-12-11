@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b7f926e483f05610b220e530ceaad348" label="Quality Assessment" max_length="40" name="x_1459983_j_j_de_0_quality_assessment" type="collection">
+        <element label="Additional Details / Comments etc" max_length="40" name="open_to_public_cmts" type="string"/>
+        <element choice="1" label="Controlled Substances stored under lock and key and all transactions" max_length="40" name="listed_in_ndps_license" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="Competent person as mentioned in the license is in-charge to control sale, distr" max_length="40" name="distribution_and_preservation_of_drugs" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element choice="1" label="Will you support manufacturer during a product recall as per recall notification" max_length="40" name="notification" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="Do you follow packaging &amp; delivery of products as per label claim" max_length="40" name="cold_chain_products" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="ha_inspection_cmts" type="string"/>
+        <element choice="1" label="Do you have system for Power Backup - Diesel Generator" max_length="40" name="power_failure" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element label="Conclusion by Requestor" max_length="40" name="conclusion_by_requestor" type="string"/>
+        <element choice="1" label="Is there a practice of reporting to manufacturer if any observation / show cause" max_length="40" name="ha_inspection" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="cold_chain_products_cmts" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="proper_invoice_cmts" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="listed_in_ndps_license_cmts" type="string"/>
+        <element choice="1" label="Do you follow process of FEFO (First Expiry First Out) to ensure products" max_length="40" name="first_expiry_first_out" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="counterfeit_or_tampering_cmts" type="string"/>
+        <element choice="1" label="Have you received any notice or warning letter from Local Food &amp; Drug Administra" max_length="40" name="drug_administration" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="temperature_recording_cmts" type="string"/>
+        <element choice="1" label="Does the facility measures to control pests (Ant, Rat, Spider, Cocroach)" max_length="40" name="year_is_recommended" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element choice="1" label="Do you have a system and process to monitor Temperature of Cold Storage area " max_length="40" name="temperature_recording" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element choice="1" label="Is there any system for Fire control-Fire Extinguishers,Smoke Detectors?" max_length="40" name="smoke_detectors" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element choice="1" label="Is there any process for cleaning and sanitization? " max_length="40" name="sanitization" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element choice="1" label="Do you maintain documentation supporting traceability of product distribution" max_length="40" name="local_regulation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="first_expiry_first_out_cmts" type="string"/>
+        <element choice="1" label="Do you have designated area for quarantining return, expired, recalled " max_length="40" name="damaged_product" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="power_failure_cmts" type="string"/>
+        <element choice="1" label="Are the products billed with proper invoice (by cash or credit memo)?" max_length="40" name="proper_invoice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="sanitization_cmts" type="string"/>
+        <element label="form ID" max_length="40" name="form_id" reference="x_1459983_j_j_de_0_quality_assessment_document" type="reference"/>
+        <element choice="1" label="Are the records maintained for a period as required under D&amp;C Act? " max_length="40" name="d_and_c_act" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="d_and_c_act_cmts" type="string"/>
+        <element choice="1" label="Valid license displayed in a prominent place open to public?" max_length="40" name="open_to_public" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="drug_administration_cmts" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="local_regulation_cmts" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="year_is_recommended_cmts" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="camera_system_cmts" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="damaged_product_cmts" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="notification_cmts" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="smoke_detectors_cmts" type="string"/>
+        <element choice="1" label="Do you have security systems - Security 24X7 or Camera system" max_length="40" name="camera_system" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="Is there any process at site for reporting any loss, theft, counterfeit " max_length="40" name="counterfeit_or_tampering" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Additional Details / Comments etc" max_length="40" name="distribution_and_preservation_of_drugs_cmts" type="string"/>
+        <element choice="1" label="Will you communicate within timeline (24 hours) to manufacturer" max_length="40" name="observed_or_received" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="NA"/>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Additional Details / Comments etc" max_length="40" name="observed_or_received_cmts" type="string"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+    </element>
+</database>

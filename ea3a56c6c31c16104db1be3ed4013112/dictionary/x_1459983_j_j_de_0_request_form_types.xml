@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6c5b1202c35c16104db1be3ed4013181" label="Request Form Types" max_length="40" name="x_1459983_j_j_de_0_request_form_types" type="collection">
+        <element choice="3" label="Requestor Form Type" max_length="40" name="requestor_form_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Code Renewal of Existing Distributor (RDD)" sequence="2" value="Code Renewal of Existing Distributor (RDD)"/>
+                <element inactive_on_update="false" label="New Distributor- IN60 (INHP) Appointment" sequence="0" value="New Distributor- IN60 (INHP) Appointment"/>
+                <element inactive_on_update="false" label="New Liasioner Appointment" sequence="3" value="New Liasioner Appointment"/>
+                <element inactive_on_update="false" label="New Distributor -End User (INEU) Appointment" sequence="1" value="New Distributor -End User (INEU) Appointment"/>
+            </choice>
+        </element>
+    </element>
+</database>

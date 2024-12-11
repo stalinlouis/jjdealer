@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Distributor Capability Assessment" section_id="34ea13c68334da50b220e530ceaad3db" sys_domain="global" table="x_1459983_j_j_de_0_distributor_form" version="3" view="Distributor_Details">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.proposed_dis_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>deead3c68334da50b220e530ceaad307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.pharmacies_coverd</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>d6ead3c68334da50b220e530ceaad308</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.govt_institutions_covered</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>deead3c68334da50b220e530ceaad308</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.how_many_mnc_covered</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>d6ead3c68334da50b220e530ceaad309</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.physical_infrastruture</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>deead3c68334da50b220e530ceaad309</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.comments</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>d6ead3c68334da50b220e530ceaad30a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>deead3c68334da50b220e530ceaad30a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.source_of_dist</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>2aead3c68334da50b220e530ceaad30b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.nursing_homes_covered</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>22ead3c68334da50b220e530ceaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.freqency</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>2aead3c68334da50b220e530ceaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.trained_ppl_infrastructure</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>22ead3c68334da50b220e530ceaad30d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.form_id.total</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:13</sys_created_on>
+            <sys_id>2aead3c68334da50b220e530ceaad30d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Distributor Capability Assessment</caption>
+            <header>false</header>
+            <name>x_1459983_j_j_de_0_distributor_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34ea13c68334da50b220e530ceaad3db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459983_j_j_de_0_distributor_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_ui_section_34ea13c68334da50b220e530ceaad3db</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Distributor Details" name="Distributor_Details">a4ea13c68334da50b220e530ceaad343</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

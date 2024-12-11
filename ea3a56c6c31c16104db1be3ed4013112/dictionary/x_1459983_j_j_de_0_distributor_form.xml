@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b79a71a483b81610b220e530ceaad360" label="distributor form" max_length="40" name="x_1459983_j_j_de_0_distributor_form" type="collection">
+        <element label="Warehouse Address" max_length="1000" name="warehouse_address" type="string"/>
+        <element label="Registered Address" max_length="1000" name="registered_address" type="string"/>
+        <element label="Proposed Distributor is a" max_length="40" name="proposed_distributor" type="string"/>
+        <element label="Proposed Franchise Code" max_length="40" name="proposed_franchise_code" type="string"/>
+        <element label="GST Registration Certificate" max_length="40" name="gst_registration_certificate" type="file_attachment"/>
+        <element label="PAN Card Copy" max_length="40" name="pan_card_copy" type="file_attachment"/>
+        <element label="Proposed Payment Term" max_length="40" name="proposed_payment_term" type="string"/>
+        <element label="Valid Till / License Expiry Date" max_length="40" name="license_expiry_date" type="glide_date"/>
+        <element label="License Number (Tick as applicable)" max_length="40" name="licence_number" type="string"/>
+        <element label="form ID" max_length="40" name="form_id" reference="x_1459983_j_j_de_0_existing_distributors" type="reference"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="Specialty Business Involvement" max_length="40" name="specialty_business" type="string"/>
+        <element label="Request Letter" max_length="40" name="request_letter" type="file_attachment"/>
+        <element label="GST Number" max_length="40" name="gst_number" type="string"/>
+        <element label="HCP Involvement" max_length="40" name="hcp_involvement" type="string"/>
+        <element label="Nature of Business" max_length="40" name="nature_of_business" type="string"/>
+        <element label="TCS Declaration" max_length="40" name="tcs_declaration" type="file_attachment"/>
+        <element label="Mobile Number" max_length="40" name="mobile_number" type="phone_number_e164"/>
+        <element label="PDC Involvement" max_length="40" name="pdc_involvement" type="string"/>
+        <element label="Email ID" max_length="40" name="email_id" type="string"/>
+        <element label="Banker's Name &amp; Address" max_length="40" name="banker_s_name_address" type="string"/>
+        <element label="Additional Margin / Services Applicable (For Trade Distributors only)" max_length="40" name="additional_margin" type="string"/>
+        <element label="Government Business Involvement" max_length="40" name="government_business" type="string"/>
+        <element label="Drug Licenses" max_length="40" name="drug_licenses" type="file_attachment"/>
+        <element label="Name of Firm /  Company" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Demand Generation" max_length="40" name="demand_generation" type="string"/>
+        <element label="Distributor / Territory Name" max_length="40" name="territory_name" type="string"/>
+        <element label="Renewal Challan" max_length="40" name="renewal_challan" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="License Applicability" max_length="40" name="license_applicability" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Schedule X" sequence="3" value="Schedule X"/>
+                <element inactive_on_update="false" label="NDPS" sequence="4" value="NDPS"/>
+                <element inactive_on_update="false" label="21B" sequence="1" value="21B"/>
+                <element inactive_on_update="false" label="20B" sequence="0" value="20B"/>
+                <element inactive_on_update="false" label="21C" sequence="2" value="21C"/>
+            </choice>
+        </element>
+        <element label="Name of Key Person" mandatory="true" max_length="40" name="name_of_key_person" type="string"/>
+        <element label="Other (please specify)" max_length="40" name="other" type="string"/>
+        <element label="GO Involvement" max_length="40" name="go_involvement" type="string"/>
+    </element>
+</database>

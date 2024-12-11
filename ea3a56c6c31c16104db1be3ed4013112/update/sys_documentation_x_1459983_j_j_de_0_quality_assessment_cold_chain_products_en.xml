@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cold_chain_products" label="Do you follow packaging &amp; delivery of products as per label claim" language="en" table="x_1459983_j_j_de_0_quality_assessment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cold_chain_products</element>
+            <help/>
+            <hint/>
+            <label>Do you follow packaging &amp; delivery of products as per label claim</label>
+            <language>en</language>
+            <name>x_1459983_j_j_de_0_quality_assessment</name>
+            <plural>Do you follow packaging &amp; delivery of products as per label claims</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 09:14:57</sys_created_on>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_name>Do you follow packaging &amp; delivery of products as per label claim</sys_name>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_documentation_x_1459983_j_j_de_0_quality_assessment_cold_chain_products_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 09:34:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

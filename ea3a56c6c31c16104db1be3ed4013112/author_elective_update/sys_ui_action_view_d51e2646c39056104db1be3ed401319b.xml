@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_view">
+    <sys_ui_action_view action="DELETE">
+        <sys_class_name>sys_ui_action_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 04:42:57</sys_created_on>
+        <sys_id>d51e2646c39056104db1be3ed401319b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Continue.Click Actions</sys_name>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_ui_action display_value="Continue">49dcaac2c39056104db1be3ed40131a2</sys_ui_action>
+        <sys_ui_view display_value="Click Actions" name="click_actions">0c7f48b9e723330078d86188d2f6a9fd</sys_ui_view>
+        <sys_update_name>sys_ui_action_view_d51e2646c39056104db1be3ed401319b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 04:42:57</sys_updated_on>
+        <visibility>include</visibility>
+    </sys_ui_action_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</application>
+        <file_path/>
+        <instance_id>da99846a1b0dca18168f4089bd4bcb21</instance_id>
+        <instance_name>dev248746</instance_name>
+        <name>sys_ui_action_view_d51e2646c39056104db1be3ed401319b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_view"><sys_ui_action_view action="INSERT_OR_UPDATE"><sys_class_name>sys_ui_action_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-30 04:42:57</sys_created_on><sys_id>d51e2646c39056104db1be3ed401319b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Continue.Click Actions</sys_name><sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package><sys_policy/><sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope><sys_ui_action display_value="Continue">49dcaac2c39056104db1be3ed40131a2</sys_ui_action><sys_ui_view display_value="Click Actions" name="click_actions">0c7f48b9e723330078d86188d2f6a9fd</sys_ui_view><sys_update_name>sys_ui_action_view_d51e2646c39056104db1be3ed401319b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-30 04:42:57</sys_updated_on><visibility>include</visibility></sys_ui_action_view></record_update>]]></payload>
+        <payload_hash>-1301570558</payload_hash>
+        <record_name>include</record_name>
+        <reverted_from/>
+        <source>a63a56c6c31c16104db1be3ed40131ad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 04:42:57</sys_created_on>
+        <sys_id>d91e2646c39056104db1be3ed401319e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191a197faab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 04:42:57</sys_updated_on>
+        <type>UI View Action</type>
+        <update_guid>dd1e2646cb905610cb2e54f18b852a9d</update_guid>
+        <update_guid_history>dd1e2646cb905610cb2e54f18b852a9d:-1301570558</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-30 04:44:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action_view">sys_ui_action_view</sys_db_object>
+        <sys_id>16307f6503284f5d85ada9ca2aa04641</sys_id>
+        <sys_metadata>d51e2646c39056104db1be3ed401319b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Continue.Click Actions</sys_name>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_parent display_value="Continue">49dcaac2c39056104db1be3ed40131a2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_scope_delete display_value="">1887c6c373d8464f84d9c36e80a58aa9</sys_scope_delete>
+        <sys_update_name>sys_ui_action_view_d51e2646c39056104db1be3ed401319b</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_view_d51e2646c39056104db1be3ed401319b">d91e2646c39056104db1be3ed401319e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-30 04:44:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

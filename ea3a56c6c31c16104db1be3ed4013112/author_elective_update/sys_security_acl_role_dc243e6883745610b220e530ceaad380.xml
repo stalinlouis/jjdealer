@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 09:49:53</sys_created_on>
+        <sys_id>dc243e6883745610b220e530ceaad380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459983_j_j_de_0_quality_assessment_document.x_1459983_j_j_de_0.JJ_RSM</sys_name>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_security_acl display_value="x_1459983_j_j_de_0_quality_assessment_document">14243e6883745610b220e530ceaad37d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dc243e6883745610b220e530ceaad380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 09:49:53</sys_updated_on>
+        <sys_user_role display_value="x_1459983_j_j_de_0.JJ_RSM" name="x_1459983_j_j_de_0.JJ_RSM">d6c5534ec39c56104db1be3ed401312e</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</application>
+        <file_path/>
+        <instance_id>14a5b4aa1b1546d0c82acb7b234bcbca</instance_id>
+        <instance_name>dev254277</instance_name>
+        <name>sys_security_acl_role_dc243e6883745610b220e530ceaad380</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-19 09:49:53</sys_created_on><sys_id>dc243e6883745610b220e530ceaad380</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1459983_j_j_de_0_quality_assessment_document.x_1459983_j_j_de_0.JJ_RSM</sys_name><sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package><sys_policy/><sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope><sys_security_acl display_value="x_1459983_j_j_de_0_quality_assessment_document">14243e6883745610b220e530ceaad37d</sys_security_acl><sys_update_name>sys_security_acl_role_dc243e6883745610b220e530ceaad380</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-19 09:49:53</sys_updated_on><sys_user_role display_value="x_1459983_j_j_de_0.JJ_RSM" name="x_1459983_j_j_de_0.JJ_RSM">d6c5534ec39c56104db1be3ed401312e</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-73379952</payload_hash>
+        <record_name>x_1459983_j_j_de_0_quality_assessment_document.x_1459983_j_j_de_0.JJ_RSM</record_name>
+        <reverted_from/>
+        <source>555fe9d883b85210b220e530ceaad3bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 09:49:53</sys_created_on>
+        <sys_id>50243e6883745610b220e530ceaad384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19209b02bf60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 09:49:53</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>54243e6809745610f2ff3423243ed983</update_guid>
+        <update_guid_history>54243e6809745610f2ff3423243ed983:-73379952</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1459983_j_j_de_0_quality_assessment_document.x_1459983_j_j_de_0.JJ_RSM">e45b1bfd83f8d650b220e530ceaad3c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 09:53:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2700879b8b3d40af88c428bf235f4271</sys_id>
+        <sys_metadata>dc243e6883745610b220e530ceaad380</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459983_j_j_de_0_quality_assessment_document.x_1459983_j_j_de_0.JJ_RSM</sys_name>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_scope_delete display_value="">1887c6c373d8464f84d9c36e80a58aa9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_dc243e6883745610b220e530ceaad380</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_dc243e6883745610b220e530ceaad380">50243e6883745610b220e530ceaad384</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 09:53:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

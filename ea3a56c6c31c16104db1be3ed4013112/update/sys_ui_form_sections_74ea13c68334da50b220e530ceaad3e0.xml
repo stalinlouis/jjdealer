@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="74ea13c68334da50b220e530ceaad3e0" sys_domain="global" table="x_1459983_j_j_de_0_distributor_form" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01ea53c68334da50b220e530ceaad33b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_distributor_form" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3e0</sys_ui_form>
+            <sys_ui_section caption="J&amp;J Innovative Medicine &amp; DISTRIBUTOR AP" display_value="J&amp;J Innovative Medicine &amp; DISTRIBUTOR AP" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad34b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dea53c68334da50b220e530ceaad33b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_distributor_form" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3e0</sys_ui_form>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9ea53c68334da50b220e530ceaad33f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_distributor_form" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3e0</sys_ui_form>
+            <sys_ui_section caption="Due Diligence Applicability Assessment" display_value="Due Diligence Applicability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">38ea13c68334da50b220e530ceaad3d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55ea53c68334da50b220e530ceaad343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_distributor_form" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3e0</sys_ui_form>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dea53c68334da50b220e530ceaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_distributor_form" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3e0</sys_ui_form>
+            <sys_ui_section caption="Distributor Capability Assessment" display_value="Distributor Capability Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddea53c68334da50b220e530ceaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_distributor_form" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3e0</sys_ui_form>
+            <sys_ui_section caption="Quality Assessment" display_value="Quality Assessment" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">f4ea13c68334da50b220e530ceaad3dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65ea53c68334da50b220e530ceaad39a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_distributor_form" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3e0</sys_ui_form>
+            <sys_ui_section caption="Quality Assessment Documents" display_value="Quality Assessment Documents" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69ea53c68334da50b220e530ceaad3e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_distributor_form" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3e0</sys_ui_form>
+            <sys_ui_section caption="Approvals with Sign &amp; Date" display_value="Approvals with Sign &amp; Date" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">34ea13c68334da50b220e530ceaad3df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1459983_j_j_de_0_distributor_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74ea13c68334da50b220e530ceaad3e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459983_j_j_de_0_distributor_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_ui_form_sections_74ea13c68334da50b220e530ceaad3e0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Distributor Details" name="Distributor_Details">a4ea13c68334da50b220e530ceaad343</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

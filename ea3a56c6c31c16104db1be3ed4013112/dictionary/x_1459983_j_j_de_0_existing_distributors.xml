@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="81c20e6c83f81610b220e530ceaad3de" label="Existing Distributors" max_length="40" name="x_1459983_j_j_de_0_existing_distributors" type="collection">
+        <element label="Annual Turnover (in Lakhs)" max_length="40" name="other_annual_turnover" type="string"/>
+        <element label="Coverage (Towns)" max_length="40" name="coverage" type="string"/>
+        <element label="J&amp;J Employee Name" max_length="40" name="jj_emp_name" type="string"/>
+        <element label="Expected Turnover for J&amp;J (Per month in Lakhs)" max_length="40" name="expected_turnover" type="string"/>
+        <element label="Outstanding Clearance (of discontinued distributor if any)" max_length="40" name="outstanding_clearance" type="string"/>
+        <element label="Other Details / Comments If any" max_length="40" name="other_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="Company Name" max_length="40" name="other_company_name" type="string"/>
+        <element label="Appointment Req By Name" max_length="40" name="appointment_req_by" type="string"/>
+        <element label="JJ Supervisor WWID" max_length="40" name="jj_supervisor_wwid" type="string"/>
+        <element label="Appointment Req By WWID" max_length="40" name="appointment_req_by_wwid" type="string"/>
+        <element label="form ID" max_length="40" name="form_id" reference="x_1459983_j_j_de_0_distributor_capability_assessment" type="reference"/>
+        <element label="Expected Incremental Sales for J&amp;J (Per month in Lakhs)" max_length="40" name="expected_incremental" type="string"/>
+        <element label="Rationale for Appointment:" max_length="40" name="rationale" type="string"/>
+        <element label="Appointment Req By Email ID" max_length="40" name="appointment_req_by_email_id" type="string"/>
+        <element label="JJ Supervisor Name" max_length="40" name="jj_supervisor_name" type="string"/>
+        <element label="Dealer visited by Employee/Supervisor" max_length="40" name="dealer_visited_by" type="string"/>
+        <element label="Business Potential for Covered Market (Per month in Lakhs)" max_length="40" name="business_potential" type="string"/>
+        <element label="JJ Supervisor Email ID" max_length="40" name="jj_supervisor_email_id" type="string"/>
+        <element label="Existing Distributors in Proposed Territory:" max_length="40" name="existing_dist" type="string"/>
+        <element label="Has any other division of J&amp;J terminated the dealer earlier?" max_length="40" name="terminated_the_dealer_earlier" type="string"/>
+        <element label="Is the dealer related to any of J&amp;J employee or his relatives?" max_length="40" name="is_the_dealer_related" type="string"/>
+        <element label="Total Turnover of Distributor (Per month in Lakhs)" max_length="40" name="total_turnover" type="string"/>
+        <element label="J&amp;J Employee WWID" max_length="40" name="jj_emp_wwid" type="string"/>
+        <element label="Billing Rate" max_length="40" name="billing_rate" type="string"/>
+        <element label="J&amp;J Employee Email ID" max_length="40" name="jj_emp_email_id" type="string"/>
+    </element>
+</database>

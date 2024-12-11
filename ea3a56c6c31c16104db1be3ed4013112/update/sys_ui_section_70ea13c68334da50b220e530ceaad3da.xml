@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Existing Distributors Details" section_id="70ea13c68334da50b220e530ceaad3da" sys_domain="global" table="x_1459983_j_j_de_0_distributor_form" version="3" view="Distributor_Details">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.existing_dist</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>0eea93c68334da50b220e530ceaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.total_turnover</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>16ea93c68334da50b220e530ceaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.business_potential</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>1eea93c68334da50b220e530ceaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.other_company_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>16ea93c68334da50b220e530ceaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.outstanding_clearance</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>1eea93c68334da50b220e530ceaad393</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.terminated_the_dealer_earlier</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>16ea93c68334da50b220e530ceaad394</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.billing_rate</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.jj_emp_name</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.jj_emp_wwid</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.jj_supervisor_email_id</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.appointment_req_by</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.appointment_req_by_wwid</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.comments</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.rationale</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.expected_turnover</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.expected_incremental</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.other_annual_turnover</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.coverage</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.is_the_dealer_related</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.other_details</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.jj_emp_email_id</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.jj_supervisor_name</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.jj_supervisor_wwid</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.appointment_req_by_email_id</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>deea93c68334da50b220e530ceaad3db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>form_id.dealer_visited_by</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:12</sys_created_on>
+            <sys_id>d6ea93c68334da50b220e530ceaad3dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Existing Distributors Details" display_value="Existing Distributors Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">70ea13c68334da50b220e530ceaad3da</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Existing Distributors Details</caption>
+            <header>false</header>
+            <name>x_1459983_j_j_de_0_distributor_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70ea13c68334da50b220e530ceaad3da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459983_j_j_de_0_distributor_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_ui_section_70ea13c68334da50b220e530ceaad3da</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Distributor Details" name="Distributor_Details">a4ea13c68334da50b220e530ceaad343</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

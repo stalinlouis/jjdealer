@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Drug Licenses Details" section_id="74ea13c68334da50b220e530ceaad3d6" sys_domain="global" table="x_1459983_j_j_de_0_distributor_form" version="3" view="Distributor_Details">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_applicability</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>3dea93c68334da50b220e530ceaad341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_expiry_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>06ea93c68334da50b220e530ceaad342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>banker_s_name_address</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>4eea93c68334da50b220e530ceaad342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>46ea93c68334da50b220e530ceaad343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>territory_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>4eea93c68334da50b220e530ceaad343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>86ea93c68334da50b220e530ceaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>licence_number</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>8eea93c68334da50b220e530ceaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gst_number</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>86ea93c68334da50b220e530ceaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>proposed_franchise_code</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>8eea93c68334da50b220e530ceaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>proposed_distributor</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>86ea93c68334da50b220e530ceaad346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:11</sys_created_on>
+            <sys_id>8eea93c68334da50b220e530ceaad346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Drug Licenses Details" display_value="Drug Licenses Details" name="x_1459983_j_j_de_0_distributor_form" sys_domain="global" view="a4ea13c68334da50b220e530ceaad343">74ea13c68334da50b220e530ceaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Drug Licenses Details</caption>
+            <header>false</header>
+            <name>x_1459983_j_j_de_0_distributor_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 04:30:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74ea13c68334da50b220e530ceaad3d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459983_j_j_de_0_distributor_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_ui_section_74ea13c68334da50b220e530ceaad3d6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 04:30:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Distributor Details" name="Distributor_Details">a4ea13c68334da50b220e530ceaad343</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

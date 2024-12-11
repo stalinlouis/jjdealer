@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4a04766883745610b220e530ceaad3ed" label="Quality Assessment Document" max_length="40" name="x_1459983_j_j_de_0_quality_assessment_document" type="collection">
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="GST Registration Certificate" max_length="40" name="gst_registration_certificate" type="file_attachment"/>
+        <element label="form ID" max_length="40" name="form_id" reference="x_1459983_j_j_de_0_approval_details" type="reference"/>
+        <element label="Request Letter" max_length="40" name="request_letter" type="file_attachment"/>
+        <element label="TCS Declaration" max_length="40" name="tcs_declaration" type="file_attachment"/>
+        <element label="PAN Card Copy" max_length="40" name="pan_card_copy" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Renewal Challan" max_length="40" name="renewal_challan" type="file_attachment"/>
+        <element label="Drug Licenses" max_length="40" name="drug_licenses" type="file_attachment"/>
+    </element>
+</database>

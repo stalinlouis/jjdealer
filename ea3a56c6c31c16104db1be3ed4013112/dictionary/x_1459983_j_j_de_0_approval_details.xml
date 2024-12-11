@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9a760a2c833c1610b220e530ceaad31f" label="Approval Details" max_length="40" name="x_1459983_j_j_de_0_approval_details" type="collection">
+        <element label="Line Manager" max_length="40" name="line_manager" type="string"/>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="Finance Director" max_length="40" name="finance_director" type="string"/>
+        <element label="Franchise Lead" max_length="40" name="franchise_lead" type="string"/>
+        <element label="Commerical Business Lead" max_length="40" name="commerical_business_lead" type="string"/>
+        <element label="Requestor" max_length="40" name="requestor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="form ID" max_length="40" name="form_id" reference="x_1459983_j_j_de_0_quality_assessment_document" type="reference"/>
+        <element label="Channel Mgmt Lead" max_length="40" name="channel_mgmt_lead" type="string"/>
+        <element label="BU Finance" max_length="40" name="bu_finance" type="string"/>
+    </element>
+</database>

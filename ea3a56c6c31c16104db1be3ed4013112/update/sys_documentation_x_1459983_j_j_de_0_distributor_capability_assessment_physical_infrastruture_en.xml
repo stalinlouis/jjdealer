@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="physical_infrastruture" label="Physical infrastructure for Handling, Storage, and Distribution of medicines" language="en" table="x_1459983_j_j_de_0_distributor_capability_assessment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>physical_infrastruture</element>
+            <help/>
+            <hint/>
+            <label>Physical infrastructure for Handling, Storage, and Distribution of medicines</label>
+            <language>en</language>
+            <name>x_1459983_j_j_de_0_distributor_capability_assessment</name>
+            <plural>Physical infrastructure for Handling, Storage, and Distribution of medicines</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:05:57</sys_created_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>Physical infrastructure for Handling, Storage, and Distribution of medicines</sys_name>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_documentation_x_1459983_j_j_de_0_distributor_capability_assessment_physical_infrastruture_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 09:00:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="trained_ppl_infrastructure" label="Trained people infrastructure to manage the medicines" language="en" table="x_1459983_j_j_de_0_distributor_capability_assessment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>trained_ppl_infrastructure</element>
+            <help/>
+            <hint/>
+            <label>Trained people infrastructure to manage the medicines</label>
+            <language>en</language>
+            <name>x_1459983_j_j_de_0_distributor_capability_assessment</name>
+            <plural>Trained people infrastructure to manage the medicines</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 07:05:12</sys_created_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>Trained people infrastructure to manage the medicines</sys_name>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_documentation_x_1459983_j_j_de_0_distributor_capability_assessment_trained_ppl_infrastructure_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 09:00:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

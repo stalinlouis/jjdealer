@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6e623a06c31456104db1be3ed401319a" label="distributor" max_length="40" name="x_1459983_j_j_de_0_distributor" type="collection">
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="PAN Card Number" mandatory="true" max_length="40" name="pan_card_number" type="string"/>
+        <element label="GST Number" mandatory="true" max_length="40" name="gst_number" type="string"/>
+        <element label="GST Registration Certificate" mandatory="true" max_length="40" name="gst_registration_certificate" type="file_attachment"/>
+        <element label="Formal Application Letter" mandatory="true" max_length="40" name="formal_application_letter" type="file_attachment"/>
+        <element label="Turnover Declaration" max_length="40" name="turnover_declaration" type="file_attachment"/>
+        <element label="Formal Application Number" mandatory="true" max_length="40" name="formal_application_number" type="string"/>
+        <element label="Upload PAN Card" mandatory="true" max_length="40" name="upload_pan_card" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="OOS Declaration Form / New TPI Appoinment" mandatory="true" max_length="40" name="oos_declaration_form_new_tpi_appoinment" type="file_attachment"/>
+    </element>
+</database>

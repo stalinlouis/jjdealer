@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="terminated_the_dealer_earlier" label="Has any other division of J&amp;J terminated the dealer earlier?" language="en" table="x_1459983_j_j_de_0_existing_distributors">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>terminated_the_dealer_earlier</element>
+            <help/>
+            <hint/>
+            <label>Has any other division of J&amp;J terminated the dealer earlier?</label>
+            <language>en</language>
+            <name>x_1459983_j_j_de_0_existing_distributors</name>
+            <plural>Has any other division of J&amp;J terminated the dealer earlier?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 06:20:28</sys_created_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>Has any other division of J&amp;J terminated the dealer earlier?</sys_name>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_documentation_x_1459983_j_j_de_0_existing_distributors_terminated_the_dealer_earlier_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-20 08:48:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
