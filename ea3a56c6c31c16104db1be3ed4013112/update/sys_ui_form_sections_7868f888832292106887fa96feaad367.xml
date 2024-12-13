@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7868f888832292106887fa96feaad367" sys_domain="global" table="x_1459983_j_j_de_0_supplier_address_details" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c68f888832292106887fa96feaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_supplier_address_details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7868f888832292106887fa96feaad367</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">c7c4f4c0832292106887fa96feaad3ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7868f888832292106887fa96feaad36b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_supplier_address_details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7868f888832292106887fa96feaad367</sys_ui_form>
+            <sys_ui_section caption="Purchasing Details" display_value="Purchasing Details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7c68f888832292106887fa96feaad365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f068f888832292106887fa96feaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_j_j_de_0_supplier_address_details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7868f888832292106887fa96feaad367</sys_ui_form>
+            <sys_ui_section caption="Company Address" display_value="Company Address" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">bc68f888832292106887fa96feaad366</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1459983_j_j_de_0_supplier_address_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7868f888832292106887fa96feaad367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459983_j_j_de_0_supplier_address_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7868f888832292106887fa96feaad367</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

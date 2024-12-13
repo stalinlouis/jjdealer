@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Bentley- SDMS">3ce58b27831612106887fa96feaad31f</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 08:24:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2f064f27831612106887fa96feaad3e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3ce58b27831612106887fa96feaad31f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_2f064f27831612106887fa96feaad3e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 08:24:10</sys_updated_on>
+        <tab display_value="New Tab 1">63064727831612106887fa96feaad3c3</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

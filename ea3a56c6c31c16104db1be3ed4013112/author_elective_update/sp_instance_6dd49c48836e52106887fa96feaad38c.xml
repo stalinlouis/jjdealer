@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">1cc49c48836e52106887fa96feaad387</sp_column>
+        <sp_widget display_value="Calculator">974a652347332100ba13a5554ee49089</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 08:46:50</sys_created_on>
+        <sys_id>6dd49c48836e52106887fa96feaad38c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_update_name>sp_instance_6dd49c48836e52106887fa96feaad38c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 08:46:50</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=6dd49c48836e52106887fa96feaad38c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</application>
+        <file_path/>
+        <instance_id>501a95a2db7afd14b1eb9027c5961958</instance_id>
+        <instance_name>dev231585</instance_name>
+        <name>sp_instance_6dd49c48836e52106887fa96feaad38c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">1cc49c48836e52106887fa96feaad387</sp_column><sp_widget display_value="Calculator">974a652347332100ba13a5554ee49089</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-13 08:46:50</sys_created_on><sys_id>6dd49c48836e52106887fa96feaad38c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package><sys_policy/><sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope><sys_update_name>sp_instance_6dd49c48836e52106887fa96feaad38c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-13 08:46:50</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=6dd49c48836e52106887fa96feaad38c"/></record_update>]]></payload>
+        <payload_hash>1547641902</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b6ad5bd3831212106887fa96feaad3f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 08:46:50</sys_created_on>
+        <sys_id>a9d494c8836e52106887fa96feaad313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193bf32fe8b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 08:46:50</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>add494c8816e5210381b417dfa79d512</update_guid>
+        <update_guid_history>add494c8816e5210381b417dfa79d512:1547641902</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">07d458c4836e52106887fa96feaad3de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 08:46:56</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>38ad6329c0b24cffac96ed045241fa81</sys_id>
+        <sys_metadata>6dd49c48836e52106887fa96feaad38c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_scope_delete display_value="">1887c6c373d8464f84d9c36e80a58aa9</sys_scope_delete>
+        <sys_update_name>sp_instance_6dd49c48836e52106887fa96feaad38c</sys_update_name>
+        <sys_update_version display_value="sp_instance_6dd49c48836e52106887fa96feaad38c">a9d494c8836e52106887fa96feaad313</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 08:46:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Supplier info Approval - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="supplier_info_approval">05b3dc48836e52106887fa96feaad342</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 08:45:59</sys_created_on>
+        <sys_id>0da4d848836e52106887fa96feaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supplier info Approval - Container 1</sys_name>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_update_name>sp_container_0da4d848836e52106887fa96feaad332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 08:45:59</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</application>
+        <file_path/>
+        <instance_id>501a95a2db7afd14b1eb9027c5961958</instance_id>
+        <instance_name>dev231585</instance_name>
+        <name>sp_container_0da4d848836e52106887fa96feaad332</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Supplier info Approval - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="supplier_info_approval">05b3dc48836e52106887fa96feaad342</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-13 08:45:59</sys_created_on><sys_id>0da4d848836e52106887fa96feaad332</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Supplier info Approval - Container 1</sys_name><sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package><sys_policy/><sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope><sys_update_name>sp_container_0da4d848836e52106887fa96feaad332</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-13 08:45:59</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-302545890</payload_hash>
+        <record_name>Supplier info Approval - Container 1</record_name>
+        <reverted_from/>
+        <source>b6ad5bd3831212106887fa96feaad3f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 08:45:59</sys_created_on>
+        <sys_id>c9a490c8836e52106887fa96feaad317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193bf3238900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 08:45:59</sys_updated_on>
+        <type>Container</type>
+        <update_guid>cda490c8f16e521004e43cb23e940116</update_guid>
+        <update_guid_history>cda490c8f16e521004e43cb23e940116:-302545890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Supplier info Approval - Container 1">ced7dc8c836e52106887fa96feaad3c4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 09:00:00</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>06c77e5bfcee4265bd7901ef1dc666e9</sys_id>
+        <sys_metadata>0da4d848836e52106887fa96feaad332</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supplier info Approval - Container 1</sys_name>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_scope_delete display_value="">1887c6c373d8464f84d9c36e80a58aa9</sys_scope_delete>
+        <sys_update_name>sp_container_0da4d848836e52106887fa96feaad332</sys_update_name>
+        <sys_update_version display_value="sp_container_0da4d848836e52106887fa96feaad332">c9a490c8836e52106887fa96feaad317</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 09:00:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

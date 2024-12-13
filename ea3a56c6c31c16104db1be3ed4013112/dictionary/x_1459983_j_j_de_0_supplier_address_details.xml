@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eec4fc04832292106887fa96feaad375" label="Supplier Address Details" max_length="40" name="x_1459983_j_j_de_0_supplier_address_details" type="collection">
+        <element label="Town/City" max_length="40" name="town_city" type="string"/>
+        <element label="Purchasing Contact Email" max_length="40" name="purchasing_contact_email" type="string"/>
+        <element label="Company Registration Number" max_length="40" name="company_registration_number" type="string"/>
+        <element label="Post/Area Code" max_length="40" name="post_area_code" type="string"/>
+        <element choice="1" label="Purchasing Group" max_length="40" name="purchasing_group" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="NPE" sequence="0" value="NPE"/>
+            </choice>
+        </element>
+        <element label="Approval Date" max_length="40" name="approval_date" type="glide_date"/>
+        <element label="Street / House address" max_length="40" name="street_house_address" type="string"/>
+        <element label="Vat Reg.Number" max_length="40" name="vat_reg_number" type="string"/>
+        <element choice="1" label="Incoterms" max_length="40" name="incoterms" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="EXW" sequence="0" value="EXW"/>
+            </choice>
+        </element>
+        <element choice="1" label="Country" max_length="40" name="country" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="UK" sequence="0" value="UK"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Cash Management Group" max_length="40" name="cash_management_group" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="V2" sequence="0" value="V2"/>
+            </choice>
+        </element>
+        <element label="Purchasing Contract Name" max_length="40" name="purchasing_contract_name" type="string"/>
+        <element label="Business Email Address for PO" max_length="40" name="business_email_address_for_po" type="string"/>
+        <element label="Business Email Address for Payment Advice" max_length="40" name="business_email_address_for_payment_advice" type="string"/>
+        <element label="Purchasing Contact Telephone Number" max_length="40" name="purchasing_contact_telephone_number" type="string"/>
+        <element label="Company Address Line" max_length="40" name="company_address_line" type="string"/>
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element choice="1" label="Terms of Payment" max_length="40" name="terms_of_payment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Z105" sequence="0" value="Z105"/>
+            </choice>
+        </element>
+    </element>
+</database>

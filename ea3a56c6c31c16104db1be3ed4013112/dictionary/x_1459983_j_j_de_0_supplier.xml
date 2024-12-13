@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3e908400832e52106887fa96feaad307" label="Supplier" max_length="40" name="x_1459983_j_j_de_0_supplier" type="collection">
+        <element label="New Mapping" max_length="40" name="new_mapping" type="boolean"/>
+        <element label="Action" max_length="40" name="action" type="string"/>
+        <element label="Goods Shipper in Progress" max_length="40" name="goods_shipper_in_progress" type="boolean"/>
+        <element label="Non Prod Vendor in Progess" max_length="40" name="non_prod_vendor_in_progess" type="boolean"/>
+        <element label="Vender Name" max_length="40" name="vender_name" type="string"/>
+        <element label="Create 0002" max_length="40" name="create_0002" type="boolean"/>
+        <element label="Prod Vender in Progress" max_length="40" name="prod_vender_in_progress" type="boolean"/>
+        <element choice="1" label="Currency" max_length="40" name="currency" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="GBP" sequence="0" value="GBP"/>
+                <element inactive_on_update="false" label="INR" sequence="1" value="INR"/>
+            </choice>
+        </element>
+        <element label="Update Mapping" max_length="40" name="update_mapping" type="boolean"/>
+        <element label="Production Vendor" max_length="40" name="production_vendor" type="boolean"/>
+        <element label="Rule" max_length="40" name="rule" type="string"/>
+        <element label="Create LIEF" max_length="40" name="create_lief" type="string"/>
+        <element label="Sub Rule" max_length="40" name="sub_rule" type="string"/>
+        <element label="Delete Mapping" max_length="40" name="delete_mapping" type="boolean"/>
+        <element label="Non Production Vendor" max_length="40" name="non_production_vendor" type="boolean"/>
+        <element label="Nominated as" max_length="40" name="nominated_as" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Primary DUNS" max_length="40" name="primary_duns" type="string"/>
+        <element label="Buyer Email" max_length="40" name="buyer_email" type="string"/>
+        <element label="Goods Shipper" max_length="40" name="goods_shipper" type="boolean"/>
+    </element>
+</database>

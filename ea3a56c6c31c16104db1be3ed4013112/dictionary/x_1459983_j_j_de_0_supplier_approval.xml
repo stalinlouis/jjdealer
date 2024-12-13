@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d61e88883ae52106887fa96feaad32d" label="Supplier Approval" max_length="40" name="x_1459983_j_j_de_0_supplier_approval" type="collection">
+        <element label="Start Date" max_length="40" name="r_start_date" type="glide_date"/>
+        <element label="Welcome Pack sent" max_length="40" name="welcome_pack_sent" type="string"/>
+        <element label="Bank Data Ported to SAP" max_length="40" name="bank_data_ported_to_sap" type="boolean"/>
+        <element label="PROD vender" max_length="40" name="prod_vender" type="boolean"/>
+        <element label="Company Name" max_length="40" name="company_name" type="string"/>
+        <element label="Vender Code LIEF/002" max_length="40" name="vender_code_lief_002" type="string"/>
+        <element label="DUNS Number" max_length="40" name="duns_number" type="string"/>
+        <element label="Approval Date" max_length="40" name="ba_approval_date" type="glide_date"/>
+        <element label="Coface Data Required" max_length="40" name="r_coface_data_required" type="string"/>
+        <element label="Buyer email" max_length="40" name="buyer_email" type="string"/>
+        <element label="Business Contract Email" max_length="40" name="business_contract_email" type="string"/>
+        <element label="Start Date" max_length="40" name="b_start_date" type="glide_date"/>
+        <element label="Parent Prod Vender DUNS" max_length="40" name="parent_prod_vender_duns" type="string"/>
+        <element label="Approval Date" max_length="40" name="b_approval_date" type="glide_date"/>
+        <element label="SDMS ID" max_length="40" name="sdms_id" type="string"/>
+        <element label="Start Date(PDF Sent)" max_length="40" name="ba_start_date_pdf_sent" type="glide_date"/>
+        <element label="Approval Date" max_length="40" name="r_approval_date" type="glide_date"/>
+        <element label="Escalation Date" max_length="40" name="r_escalation_date" type="glide_date"/>
+        <element label="NON prod VENDER" max_length="40" name="non_prod_vender" type="boolean"/>
+        <element label="Goods Shipper" max_length="40" name="goods_shipper" type="boolean"/>
+        <element label="Number of Reminder Emails" max_length="40" name="ba_number_of_reminder_emails" type="float"/>
+        <element label="Date Last Reminder Email Sent" max_length="40" name="b_date_last_reminder_email_sent" type="glide_date"/>
+        <element label="Update" max_length="40" name="update" type="boolean"/>
+        <element label="Create" max_length="40" name="create" type="boolean"/>
+        <element choice="1" label="Currency" max_length="40" name="currency" type="choice">
+            <choice/>
+        </element>
+        <element label="Number of LDB Reminders" max_length="40" name="b_number_of_ldb_reminders" type="float"/>
+        <element label="Date Last Reminder Email Sent" max_length="40" name="ba_date_last_reminder_email_sent" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

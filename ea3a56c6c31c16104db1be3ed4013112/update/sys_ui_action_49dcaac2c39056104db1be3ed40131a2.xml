@@ -43,7 +43,7 @@
     // var url = '/' + targetTable + '.do?sys_id=' + targetSysId;
 	// var url = 'https://dev248746.service-now.com/x_1459983_j_j_de_0_distributor.do?sys_id=-1';
 	//var url='https://dev254277.service-now.com/now/nav/ui/classic/params/target/x_1459983_j_j_de_0_distributor.do%3Fsys_id%3D-1%26sysparm_stack%3Dx_1459983_j_j_de_0_distributor_list.do';
-	var url = 'https://dev254277.service-now.com/now/nav/ui/classic/params/target/x_1459983_j_j_de_0_distributor_form.do%3Fsys_id%3D-1%26sysparm_stack%3Dx_1459983_j_j_de_0_distributor_form_list.do';
+	var url = 'https://dev231585.service-now.com/now/nav/ui/classic/params/target/x_1459983_j_j_de_0_distributor_form.do%3Fsys_id%3D-1%26sysparm_stack%3Dx_1459983_j_j_de_0_distributor_form_list.do';
 	setTimeout(function() {
         // window.location.href = url;
 		top.location.href = url;
@@ -66,7 +66,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>49dcaac2c39056104db1be3ed40131a2</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_name>Continue</sys_name>
         <sys_overrides/>
         <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
@@ -74,7 +74,7 @@
         <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
         <sys_update_name>sys_ui_action_49dcaac2c39056104db1be3ed40131a2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-20 09:41:48</sys_updated_on>
+        <sys_updated_on>2024-12-12 04:50:55</sys_updated_on>
         <table>x_1459983_j_j_de_0_request_form_types</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

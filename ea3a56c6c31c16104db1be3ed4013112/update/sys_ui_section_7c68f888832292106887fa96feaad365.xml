@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Purchasing Details" section_id="7c68f888832292106887fa96feaad365" sys_domain="global" table="x_1459983_j_j_de_0_supplier_address_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchasing_contract_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_id>b868f888832292106887fa96feaad3c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing Details" display_value="Purchasing Details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7c68f888832292106887fa96feaad365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchasing_contact_email</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_id>b068f888832292106887fa96feaad3c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing Details" display_value="Purchasing Details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7c68f888832292106887fa96feaad365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>terms_of_payment</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_id>b868f888832292106887fa96feaad3c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing Details" display_value="Purchasing Details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7c68f888832292106887fa96feaad365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_id>8168f888832292106887fa96feaad3c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing Details" display_value="Purchasing Details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7c68f888832292106887fa96feaad365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchasing_contact_telephone_number</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_id>8968f888832292106887fa96feaad3c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing Details" display_value="Purchasing Details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7c68f888832292106887fa96feaad365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incoterms</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_id>8168f888832292106887fa96feaad3c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing Details" display_value="Purchasing Details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7c68f888832292106887fa96feaad365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchasing_group</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:10</sys_created_on>
+            <sys_id>8968f888832292106887fa96feaad3c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchasing Details" display_value="Purchasing Details" name="x_1459983_j_j_de_0_supplier_address_details" sys_domain="global" view="Default view">7c68f888832292106887fa96feaad365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Purchasing Details</caption>
+            <header>false</header>
+            <name>x_1459983_j_j_de_0_supplier_address_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-13 11:22:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c68f888832292106887fa96feaad365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459983_j_j_de_0_supplier_address_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+            <sys_update_name>sys_ui_section_7c68f888832292106887fa96feaad365</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-13 11:22:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

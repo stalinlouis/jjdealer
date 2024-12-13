@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="New Tab 1">ef064727831612106887fa96feaad3bf</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2024-12-12 00:25:19">28568367831612106887fa96feaad382</portal_widget>
+        <posx>0</posx>
+        <posy>24</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 08:25:19</sys_created_on>
+        <sys_id>a8568367831612106887fa96feaad383</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>ef064727831612106887fa96feaad3bf</sys_name>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_a8568367831612106887fa96feaad383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 08:35:30</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</application>
+        <file_path/>
+        <instance_id>501a95a2db7afd14b1eb9027c5961958</instance_id>
+        <instance_name>dev231585</instance_name>
+        <name>sys_grid_canvas_pane_a8568367831612106887fa96feaad383</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="New Tab 1">ef064727831612106887fa96feaad3bf</grid_canvas><height>10</height><portal_widget display_value="Created 2024-12-12 00:25:19">28568367831612106887fa96feaad382</portal_widget><posx>0</posx><posy>24</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-12 08:25:19</sys_created_on><sys_id>a8568367831612106887fa96feaad383</sys_id><sys_mod_count>6</sys_mod_count><sys_name>ef064727831612106887fa96feaad3bf</sys_name><sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package><sys_policy/><sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope><sys_update_name>sys_grid_canvas_pane_a8568367831612106887fa96feaad383</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-12 08:35:30</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-845958996</payload_hash>
+        <record_name>ef064727831612106887fa96feaad3bf</record_name>
+        <reverted_from/>
+        <source>b6ad5bd3831212106887fa96feaad3f0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 08:35:30</sys_created_on>
+        <sys_id>31a8072b831612106887fa96feaad3b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193ba0243c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 08:35:30</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>f5a843e79f161210801bb732e2f2c597</update_guid>
+        <update_guid_history>f5a843e79f161210801bb732e2f2c597:-845958996,eda8032bb9161210953b1e9f1621f8fb:-2047100339,4da8072b921612106170bde9e82b2d5a:1046725614,b4a887e791161210802de06d525312ec:-154415729,b4c70f677d161210d29e9472feeb1ce2:-1355557072,5dc64b27de161210924e7e1314e4e38d:63766959,6c568367af16121072fc70d96f28e284:-1992056518</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 08:35:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>a7c79e4b641e48f8873c6653604ed364</sys_id>
+        <sys_metadata>a8568367831612106887fa96feaad383</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ef064727831612106887fa96feaad3bf</sys_name>
+        <sys_package display_value="J J Dealer Onboarding" source="x_1459983_j_j_de_0">ea3a56c6c31c16104db1be3ed4013112</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="J J Dealer Onboarding">ea3a56c6c31c16104db1be3ed4013112</sys_scope>
+        <sys_scope_delete display_value="">1887c6c373d8464f84d9c36e80a58aa9</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_a8568367831612106887fa96feaad383</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_a8568367831612106887fa96feaad383">31a8072b831612106887fa96feaad3b0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 08:35:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
